@@ -1,16 +1,23 @@
-### Hi there 👋
+# **Hi, I'm Vinny** 👋
 
-<!--
-**vinnypg/vinnypg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🧑🏻‍🔬 &nbsp; &nbsp;Research Scientist, PhD
+* 🎓 &nbsp;&nbsp;Bachelor of Science in Biomedicine (UFF/Brazil)
+* 👨🏻‍🎓 &nbsp;🫀 &nbsp;Master in Cardiovascular Science (UFF/Brazil)
+* 👨🏻‍🎓 &nbsp;🫀&nbsp;🧍🏻 &nbsp;PhD in Cardiovascular Science (UFF/Brazil) and Integrative Physiology (University of Colorodo/US)
+* 👨🏻‍💻 &nbsp; Data Scientist
+
+## Skills 
+
+* Data Visualization
+* Statistics
+
+
+- 🌱 I’m currently learning Python and Machine learning
+- 🧙🏻‍♂️ Fun fact: Book, animes, D&D, Blender, and more...
+
+## Find me around the world 🌎
+
+* [Linkedin](https://www.linkedin.com/in/vinicius-pacheco-garcia/)
